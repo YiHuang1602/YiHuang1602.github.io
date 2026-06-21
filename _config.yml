@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yi Huang"
   pronouns         : "he/him"  
-  bio              : "Ph.D in Biomedical Engineering, alumni @UVA and @USTC, Ultrasound Engineer"
+  bio              : "Ph.D in BME, alumni @UVA and @USTC, Ultrasound Engineer"
   location         : "Bellevue, WA"
-  employer         : "United-Imaging Healthcare North America"
+  employer         : "UIHA-NA"
   uri              : # URL
   email            : "yh5kd1602@outlook.com" 
   linkedin         : "https://www.linkedin.com/in/yi-huang-57a1071b7/"
@@ -52,13 +52,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
